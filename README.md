@@ -47,6 +47,6 @@ The Data was first cleaned with sql in PgAdmin4 before it was transformed in pow
 
 ## Recommendation
 <ol>
-  <li>Boost Subscriber Acquisition</li><ul><li>implement loyalty programs or tiered subscription to retain existing users</li><<li>Use surveys or feedback tools to understand and addresswhy users drop off</li><li>Offer limited-time discounts or value-added packages to attract new users</li>/ul>
+  <li>Boost Subscriber Acquisition</li><ul><li>implement loyalty programs or tiered subscription to retain existing users</li><li>Use surveys or feedback tools to understand and addresswhy users drop off</li><li>Offer limited-time discounts or value-added packages to attract new users</li></ul>
 </ol>
 
