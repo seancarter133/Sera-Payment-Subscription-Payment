@@ -39,9 +39,9 @@ The Data was first cleaned with sql in PgAdmin4 before it was transformed in pow
 
 ## Business Problem
 <ul>
-  <li>Sharp Decline In monthly Performance: There is a signficant revenue and subscribers loss in the current month indicates poor customer retention or decreased customer acquisition.</li>
-  <li>Low Total Subscriber Base: Small user base for a subscription-based business. Growth may be too slow to scale sustainably </li>
+  <li><b>Sharp Decline In monthly Performance</b>: There is a signficant revenue and subscribers loss in the current month indicates poor customer retention or decreased customer acquisition.</li>
+  <li><b>Low Total Subscriber Base</b>: Small user base for a subscription-based business. Growth may be too slow to scale sustainably </li>
   <li>limited Geographic Revenue Spread</li>
-  <li>Payment Channel Dependency:Majority of successful payments are through card(57.78%),followed by bank transfer(39.37%): over-reliance on one or two payment channels increases business risk if there are disruptions or issues with those methods.</li>
+  <li><b>Payment Channel Dependency</b>:Majority of successful payments are through card(57.78%),followed by bank transfer(39.37%): over-reliance on one or two payment channels increases business risk if there are disruptions or issues with those methods.</li>
 </ul>
 
