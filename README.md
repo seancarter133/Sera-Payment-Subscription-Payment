@@ -31,3 +31,5 @@ This Repository Presents a comprehensive exploration and visuals representation 
 </ul>
 
 # Data Model
+The Data was first cleaned with sql in PgAdmin4 before it was transformed in power query, A date table was also created.
+![Data Model](https://github.com/seancarter133/Sera-Payment-Subscription-Payment/blob/main/images/Data%20Model.jpg)
