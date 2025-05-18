@@ -53,3 +53,6 @@ The Data was first cleaned with sql in PgAdmin4 before it was transformed in pow
   <li>Diversify and optimize payments channels</li><ul><li>Work with Financial partners to ensure reliability and seamless transactrions across all platforms.</li><li>Monitor failed transaction rates by channel and address technical issues or user experience problems promply.</li></ul>
 </ol>
 
+## Download
+<a href="https://github.com/seancarter133/Sera-Payment-Subscription-Payment/blob/main/sera.sales.pbix/sera.sales.pbix"> Download </a>
+
