@@ -41,12 +41,15 @@ The Data was first cleaned with sql in PgAdmin4 before it was transformed in pow
 <ul>
   <li><b>Sharp Decline In monthly Performance</b>: There is a signficant revenue and subscribers loss in the current month indicates poor customer retention or decreased customer acquisition.</li>
   <li><b>Low Total Subscriber Base</b>: Small user base for a subscription-based business. Growth may be too slow to scale sustainably </li>
-  <li><b>limited Geographic Revenue Spread</b></li>
+  <li><b>limited Geographic Revenue Spread.</b></li>
   <li><b>Payment Channel Dependency</b>:Majority of successful payments are through card(57.78%),followed by bank transfer(39.37%): over-reliance on one or two payment channels increases business risk if there are disruptions or issues with those methods.</li>
 </ul>
 
 ## Recommendation
 <ol>
-  <li>Boost Subscriber Acquisition</li><ul><li>implement loyalty programs or tiered subscription to retain existing users</li><li>Use surveys or feedback tools to understand and addresswhy users drop off</li><li>Offer limited-time discounts or value-added packages to attract new users</li></ul>
+  <li>Boost Subscriber Acquisition</li><ul><li>implement loyalty programs or tiered subscription to retain existing users</li><li>Use surveys or feedback tools to understand and addresswhy users drop off</li><li>Offer limited-time discounts or value-added packages to attract new users.</li></ul>
+  <li>Stabilize Monthly Performance</li><ul><li>Analyze the causes of high churn after peak months(e.g,August)</li><li>Maintain a consistent content, engagement, or product update calender to keep subscribers engaged throughout the year.</li></ul>
+  <li>Expand Geographic Reach</li><ul><li>Partner with local agents, platforms, or companies to promote services in new regions</li><li>identify high-potential markets outside Africa(e.g, North America , Europe ) and localize offerings (currency, language, payments methods).</li></ul>
+  <li>Diversify and optimize payments channels</li><ul><li>Work with Financial partners to ensure reliability and seamless transactrions across all platforms.</li><li>Monitor failed transaction rates by channel and address technical issues or user experience problems promply.</li></ul>
 </ol>
 
